@@ -1,0 +1,17 @@
+{
+  "name": "nested",
+  "description": "Auto-vivifying complex datastructures",
+  "keywords": [ "javascript", "mochiscript", "datastructures" ],
+  "author": "Jeff Su",
+  "version": "0.0.1-pre1",
+  "licenses": [ { "type": "MIT" }],
+  "engines": { "node": ">=0.4.0" },
+  "directories": { "lib": "./lib/nested" },
+  "main" : "./lib/nested/index",
+  "bin": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffsu/nested.git"
+  }
+}
